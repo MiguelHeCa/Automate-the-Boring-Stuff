@@ -1,0 +1,1 @@
+@py.exe C:\Users\jmhc\OneDrive\Documentos\GitHub\Automate-the-Boring-Stuff\pythonScript.py %*
